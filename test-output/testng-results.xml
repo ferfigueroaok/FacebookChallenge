@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28958" started-at="2020-11-02T19:50:48Z" finished-at="2020-11-02T19:51:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28958" started-at="2020-11-02T19:50:48Z" finished-at="2020-11-02T19:51:17Z">
+      <class name="Exercise.FacebookTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Exercise.FacebookTest@229d10bd]" name="setUp" is-config="true" duration-ms="7086" started-at="2020-11-02T16:50:48Z" finished-at="2020-11-02T16:50:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CreatePostTest()[pri:0, instance:Exercise.FacebookTest@229d10bd]" name="CreatePostTest" duration-ms="5430" started-at="2020-11-02T16:50:55Z" description="Create post" finished-at="2020-11-02T16:51:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreatePostTest -->
+        <test-method status="PASS" signature="UpdatePostTest()[pri:0, instance:Exercise.FacebookTest@229d10bd]" name="UpdatePostTest" duration-ms="2246" started-at="2020-11-02T16:51:01Z" description="Update post" finished-at="2020-11-02T16:51:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdatePostTest -->
+        <test-method status="PASS" signature="DeletePostTest()[pri:0, instance:Exercise.FacebookTest@229d10bd]" name="DeletePostTest" duration-ms="14124" started-at="2020-11-02T16:51:03Z" description="Delete post" finished-at="2020-11-02T16:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeletePostTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Exercise.FacebookTest@229d10bd]" name="tearDown" is-config="true" duration-ms="57" started-at="2020-11-02T16:51:17Z" finished-at="2020-11-02T16:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Exercise.FacebookTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

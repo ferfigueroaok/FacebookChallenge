@@ -1,0 +1,12 @@
+{	
+	"chromePath" : "src/test/resources/chromedriver.exe",
+	
+	"baseURI" : "https://graph.facebook.com/",
+	"appID" : "639966476692987",
+	"secretKey" : "fc59f031cdaef5db1ecdcba35ef22717",
+	
+	"pageUrl" : "https://www.facebook.com/Page-Example-113708670534486",
+	"emailUser" : "vzbharaqmi_1604262476@tfbnw.net",
+	"passUser" : "T3st1ng!"
+	
+}
